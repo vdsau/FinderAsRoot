@@ -1,5 +1,6 @@
 # 07.12.2021
 # by @vdsau
+# updated file 19.01.2023
 
 sudo /System/Library/CoreServices/Finder.app/Contents/MacOS/Finder > /dev/null 2>&1 & 
 
